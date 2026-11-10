@@ -1,0 +1,7 @@
+data/
+_dream4_tmp/
+dream4_raw/
+dream4_extracted/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
