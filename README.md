@@ -68,4 +68,4 @@ Finally, an AUPR value alone does not tell us whether every predicted interactio
 
 ## AI-use disclosure
 
-Claude (Anthropic) assisted with project planning, debugging a data problem, and writing the code in this repository (October 2026). I ran all analyses. The synopsis, the annotated paper and the interpretation of the results are my own.
+Claude assisted with debugging a data problem, and helping with the code in this repository. I ran all analyses. The synopsis, the annotated paper and the interpretation of the results are my own.
